@@ -1,0 +1,6 @@
+{
+  "name": "Ada Baiknya",
+  "description": "Catatan Harian Muslimah untuk mencatat ibadah dan kebaikan harian dengan tenang dan istiqamah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

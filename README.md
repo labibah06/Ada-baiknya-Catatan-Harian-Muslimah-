@@ -1,11 +1,24 @@
-<div align="center">
+# Ada Baiknya — Catatan Harian Muslimah
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Aplikasi web mobile-first & Progressive Web App (PWA) untuk mencatat ibadah dan kebaikan sehari-hari secara istiqamah, ringan, elegan, dan nyaman digunakan muslimah.
 
-  <h1>Built with AI Studio</h2>
+## Fitur Utama
+- **Mobile-first & PWA**: Dirancang responsif untuk browser HP/desktop, mendukung install ke Home Screen.
+- **Penyimpanan Lokal (localStorage)**: Semua data tersimpan aman di browser perangkat pengguna tanpa perlu akun, login, atau backend.
+- **Navigasi Tanggal Lengkap**: Kemarin, Hari Ini, Besok, serta pemilih tanggal langsung.
+- **Checklist Ibadah Bawaan**: Shalat 5 waktu, membaca Al-Qur'an, dan Dzikir.
+- **Aktivitas Custom**: Tambah catatan ibadah/kebaikan apa saja dengan waktu dan catatan kecil opsional.
+- **Ringkasan & Progress Real-time**: Indikator capaian persentase harian yang otomatis terupdate.
+- **Identitas Visual Lembut**: Palet dusty pink, charcoal, dan putih bersih.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Menjalankan Proyek
+```bash
+# Install dependensi
+npm install
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+# Menjalankan mode development
+npm run dev
 
-</div>
+# Membangun versi produksi
+npm run build
+```
